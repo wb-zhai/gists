@@ -1,0 +1,3 @@
+Select *
+From `fao-maps.fao_hih_datalab.vw_country_subnational_adm_level_2`
+LIMIT 50000 OFFSET 250000
