@@ -1,0 +1,494 @@
+[
+  {
+    "English short name": "Afghanistan",
+    "French short name": "Afghanistan (l')",
+    "Alpha-2 code": "AF",
+    "Alpha-3 code": "AFG"
+  },
+  {
+    "English short name": "Bangladesh",
+    "French short name": "Bangladesh (le)",
+    "Alpha-2 code": "BD",
+    "Alpha-3 code": "BGD"
+  },
+  {
+    "English short name": "Belize",
+    "French short name": "Belize (le)",
+    "Alpha-2 code": "BZ",
+    "Alpha-3 code": "BLZ"
+  },
+  {
+    "English short name": "Benin",
+    "French short name": "B\u00e9nin (le)",
+    "Alpha-2 code": "BJ",
+    "Alpha-3 code": "BEN"
+  },
+  {
+    "English short name": "Bhutan",
+    "French short name": "Bhoutan (le)",
+    "Alpha-2 code": "BT",
+    "Alpha-3 code": "BTN"
+  },
+  {
+    "English short name": "Burkina Faso",
+    "French short name": "Burkina Faso (le)",
+    "Alpha-2 code": "BF",
+    "Alpha-3 code": "BFA"
+  },
+  {
+    "English short name": "Burundi",
+    "French short name": "Burundi (le)",
+    "Alpha-2 code": "BI",
+    "Alpha-3 code": "BDI"
+  },
+  {
+    "English short name": "Cabo Verde",
+    "French short name": "Cabo Verde",
+    "Alpha-2 code": "CV",
+    "Alpha-3 code": "CPV"
+  },
+  {
+    "English short name": "Cambodia",
+    "French short name": "Cambodge (le)",
+    "Alpha-2 code": "KH",
+    "Alpha-3 code": "KHM"
+  },
+  {
+    "English short name": "Cameroon",
+    "French short name": "Cameroun (le)",
+    "Alpha-2 code": "CM",
+    "Alpha-3 code": "CMR"
+  },
+  {
+    "English short name": "Central African Republic (the)",
+    "French short name": "R\u00e9publique centrafricaine (la)",
+    "Alpha-2 code": "CF",
+    "Alpha-3 code": "CAF"
+  },
+  {
+    "English short name": "Chad",
+    "French short name": "Tchad (le)",
+    "Alpha-2 code": "TD",
+    "Alpha-3 code": "TCD"
+  },
+  {
+    "English short name": "Comoros (the)",
+    "French short name": "Comores (les)",
+    "Alpha-2 code": "KM",
+    "Alpha-3 code": "COM"
+  },
+  {
+    "English short name": "Congo (the Democratic Republic of the)",
+    "French short name": "Congo (la R\u00e9publique d\u00e9mocratique du)",
+    "Alpha-2 code": "CD",
+    "Alpha-3 code": "COD"
+  },
+  {
+    "English short name": "Congo (the)",
+    "French short name": "Congo (le)",
+    "Alpha-2 code": "CG",
+    "Alpha-3 code": "COG"
+  },
+  {
+    "English short name": "C\u00f4te d'Ivoire",
+    "French short name": "C\u00f4te d'Ivoire (la)",
+    "Alpha-2 code": "CI",
+    "Alpha-3 code": "CIV"
+  },
+  {
+    "English short name": "Djibouti",
+    "French short name": "Djibouti",
+    "Alpha-2 code": "DJ",
+    "Alpha-3 code": "DJI"
+  },
+  {
+    "English short name": "Dominica",
+    "French short name": "Dominique (la)",
+    "Alpha-2 code": "DM",
+    "Alpha-3 code": "DMA"
+  },
+  {
+    "English short name": "Eritrea",
+    "French short name": "\u00c9rythr\u00e9e (l')",
+    "Alpha-2 code": "ER",
+    "Alpha-3 code": "ERI"
+  },
+  {
+    "English short name": "Eswatini",
+    "French short name": "Eswatini (l')",
+    "Alpha-2 code": "SZ",
+    "Alpha-3 code": "SWZ"
+  },
+  {
+    "English short name": "Ethiopia",
+    "French short name": "\u00c9thiopie (l')",
+    "Alpha-2 code": "ET",
+    "Alpha-3 code": "ETH"
+  },
+  {
+    "English short name": "Fiji",
+    "French short name": "Fidji (les)",
+    "Alpha-2 code": "FJ",
+    "Alpha-3 code": "FJI"
+  },
+  {
+    "English short name": "Gambia (the)",
+    "French short name": "Gambie (la)",
+    "Alpha-2 code": "GM",
+    "Alpha-3 code": "GMB"
+  },
+  {
+    "English short name": "Ghana",
+    "French short name": "Ghana (le)",
+    "Alpha-2 code": "GH",
+    "Alpha-3 code": "GHA"
+  },
+  {
+    "English short name": "Grenada",
+    "French short name": "Grenade (la)",
+    "Alpha-2 code": "GD",
+    "Alpha-3 code": "GRD"
+  },
+  {
+    "English short name": "Guinea",
+    "French short name": "Guin\u00e9e (la)",
+    "Alpha-2 code": "GN",
+    "Alpha-3 code": "GIN"
+  },
+  {
+    "English short name": "Guinea-Bissau",
+    "French short name": "Guin\u00e9e-Bissau (la)",
+    "Alpha-2 code": "GW",
+    "Alpha-3 code": "GNB"
+  },
+  {
+    "English short name": "Guyana",
+    "French short name": "Guyana (le)",
+    "Alpha-2 code": "GY",
+    "Alpha-3 code": "GUY"
+  },
+  {
+    "English short name": "Haiti",
+    "French short name": "Ha\u00efti",
+    "Alpha-2 code": "HT",
+    "Alpha-3 code": "HTI"
+  },
+  {
+    "English short name": "Honduras",
+    "French short name": "Honduras (le)",
+    "Alpha-2 code": "HN",
+    "Alpha-3 code": "HND"
+  },
+  {
+    "English short name": "Iraq",
+    "French short name": "Iraq (l')",
+    "Alpha-2 code": "IQ",
+    "Alpha-3 code": "IRQ"
+  },
+  {
+    "English short name": "Jordan",
+    "French short name": "Jordanie (la)",
+    "Alpha-2 code": "JO",
+    "Alpha-3 code": "JOR"
+  },
+  {
+    "English short name": "Kenya",
+    "French short name": "Kenya (le)",
+    "Alpha-2 code": "KE",
+    "Alpha-3 code": "KEN"
+  },
+  {
+    "English short name": "Kiribati",
+    "French short name": "Kiribati",
+    "Alpha-2 code": "KI",
+    "Alpha-3 code": "KIR"
+  },
+  {
+    "English short name": "Kyrgyzstan",
+    "French short name": "Kirghizistan (le)",
+    "Alpha-2 code": "KG",
+    "Alpha-3 code": "KGZ"
+  },
+  {
+    "English short name": "Lao People's Democratic Republic (the)",
+    "French short name": "Lao (la R\u00e9publique d\u00e9mocratique populaire)",
+    "Alpha-2 code": "LA",
+    "Alpha-3 code": "LAO"
+  },
+  {
+    "English short name": "Lebanon",
+    "French short name": "Liban (le)",
+    "Alpha-2 code": "LB",
+    "Alpha-3 code": "LBN"
+  },
+  {
+    "English short name": "Lesotho",
+    "French short name": "Lesotho (le)",
+    "Alpha-2 code": "LS",
+    "Alpha-3 code": "LSO"
+  },
+  {
+    "English short name": "Liberia",
+    "French short name": "Lib\u00e9ria (le)",
+    "Alpha-2 code": "LR",
+    "Alpha-3 code": "LBR"
+  },
+  {
+    "English short name": "Madagascar",
+    "French short name": "Madagascar",
+    "Alpha-2 code": "MG",
+    "Alpha-3 code": "MDG"
+  },
+  {
+    "English short name": "Malawi",
+    "French short name": "Malawi (le)",
+    "Alpha-2 code": "MW",
+    "Alpha-3 code": "MWI"
+  },
+  {
+    "English short name": "Maldives",
+    "French short name": "Maldives (les)",
+    "Alpha-2 code": "MV",
+    "Alpha-3 code": "MDV"
+  },
+  {
+    "English short name": "Mali",
+    "French short name": "Mali (le)",
+    "Alpha-2 code": "ML",
+    "Alpha-3 code": "MLI"
+  },
+  {
+    "English short name": "Marshall Islands (the)",
+    "French short name": "Marshall (les \u00celes)",
+    "Alpha-2 code": "MH",
+    "Alpha-3 code": "MHL"
+  },
+  {
+    "English short name": "Mauritania",
+    "French short name": "Mauritanie (la)",
+    "Alpha-2 code": "MR",
+    "Alpha-3 code": "MRT"
+  },
+  {
+    "English short name": "Micronesia (Federated States of)",
+    "French short name": "Micron\u00e9sie (\u00c9tats f\u00e9d\u00e9r\u00e9s de)",
+    "Alpha-2 code": "FM",
+    "Alpha-3 code": "FSM"
+  },
+  {
+    "English short name": "Mozambique",
+    "French short name": "Mozambique (le)",
+    "Alpha-2 code": "MZ",
+    "Alpha-3 code": "MOZ"
+  },
+  {
+    "English short name": "Myanmar",
+    "French short name": "Myanmar (le)",
+    "Alpha-2 code": "MM",
+    "Alpha-3 code": "MMR"
+  },
+  {
+    "English short name": "Nepal",
+    "French short name": "N\u00e9pal (le)",
+    "Alpha-2 code": "NP",
+    "Alpha-3 code": "NPL"
+  },
+  {
+    "English short name": "Nicaragua",
+    "French short name": "Nicaragua (le)",
+    "Alpha-2 code": "NI",
+    "Alpha-3 code": "NIC"
+  },
+  {
+    "English short name": "Niger (the)",
+    "French short name": "Niger (le)",
+    "Alpha-2 code": "NE",
+    "Alpha-3 code": "NER"
+  },
+  {
+    "English short name": "Nigeria",
+    "French short name": "Nig\u00e9ria (le)",
+    "Alpha-2 code": "NG",
+    "Alpha-3 code": "NGA"
+  },
+  {
+    "English short name": "Pakistan",
+    "French short name": "Pakistan (le)",
+    "Alpha-2 code": "PK",
+    "Alpha-3 code": "PAK"
+  },
+  {
+    "English short name": "Palestine, State of",
+    "French short name": "Palestine, \u00c9tat de",
+    "Alpha-2 code": "PS",
+    "Alpha-3 code": "PSE"
+  },
+  {
+    "English short name": "Papua New Guinea",
+    "French short name": "Papouasie-Nouvelle-Guin\u00e9e (la)",
+    "Alpha-2 code": "PG",
+    "Alpha-3 code": "PNG"
+  },
+  {
+    "English short name": "Rwanda",
+    "French short name": "Rwanda (le)",
+    "Alpha-2 code": "RW",
+    "Alpha-3 code": "RWA"
+  },
+  {
+    "English short name": "Saint Lucia",
+    "French short name": "Sainte-Lucie",
+    "Alpha-2 code": "LC",
+    "Alpha-3 code": "LCA"
+  },
+  {
+    "English short name": "Saint Vincent and the Grenadines",
+    "French short name": "Saint-Vincent-et-les Grenadines",
+    "Alpha-2 code": "VC",
+    "Alpha-3 code": "VCT"
+  },
+  {
+    "English short name": "Samoa",
+    "French short name": "Samoa (le)",
+    "Alpha-2 code": "WS",
+    "Alpha-3 code": "WSM"
+  },
+  {
+    "English short name": "Sao Tome and Principe",
+    "French short name": "Sao Tom\u00e9-et-Principe",
+    "Alpha-2 code": "ST",
+    "Alpha-3 code": "STP"
+  },
+  {
+    "English short name": "Senegal",
+    "French short name": "S\u00e9n\u00e9gal (le)",
+    "Alpha-2 code": "SN",
+    "Alpha-3 code": "SEN"
+  },
+  {
+    "English short name": "Sierra Leone",
+    "French short name": "Sierra Leone (la)",
+    "Alpha-2 code": "SL",
+    "Alpha-3 code": "SLE"
+  },
+  {
+    "English short name": "Solomon Islands",
+    "French short name": "Salomon (les \u00celes)",
+    "Alpha-2 code": "SB",
+    "Alpha-3 code": "SLB"
+  },
+  {
+    "English short name": "Somalia",
+    "French short name": "Somalie (la)",
+    "Alpha-2 code": "SO",
+    "Alpha-3 code": "SOM"
+  },
+  {
+    "English short name": "South Sudan",
+    "French short name": "Soudan du Sud (le)",
+    "Alpha-2 code": "SS",
+    "Alpha-3 code": "SSD"
+  },
+  {
+    "English short name": "Sri Lanka",
+    "French short name": "Sri Lanka",
+    "Alpha-2 code": "LK",
+    "Alpha-3 code": "LKA"
+  },
+  {
+    "English short name": "Sudan (the)",
+    "French short name": "Soudan (le)",
+    "Alpha-2 code": "SD",
+    "Alpha-3 code": "SDN"
+  },
+  {
+    "English short name": "Suriname",
+    "French short name": "Suriname (le)",
+    "Alpha-2 code": "SR",
+    "Alpha-3 code": "SUR"
+  },
+  {
+    "English short name": "Syrian Arab Republic (the)",
+    "French short name": "R\u00e9publique arabe syrienne (la)",
+    "Alpha-2 code": "SY",
+    "Alpha-3 code": "SYR"
+  },
+  {
+    "English short name": "Tajikistan",
+    "French short name": "Tadjikistan (le)",
+    "Alpha-2 code": "TJ",
+    "Alpha-3 code": "TJK"
+  },
+  {
+    "English short name": "Tanzania, the United Republic of",
+    "French short name": "Tanzanie (la R\u00e9publique-Unie de)",
+    "Alpha-2 code": "TZ",
+    "Alpha-3 code": "TZA"
+  },
+  {
+    "English short name": "Timor-Leste",
+    "French short name": "Timor-Leste (le)",
+    "Alpha-2 code": "TL",
+    "Alpha-3 code": "TLS"
+  },
+  {
+    "English short name": "Togo",
+    "French short name": "Togo (le)",
+    "Alpha-2 code": "TG",
+    "Alpha-3 code": "TGO"
+  },
+  {
+    "English short name": "Tonga",
+    "French short name": "Tonga (les)",
+    "Alpha-2 code": "TO",
+    "Alpha-3 code": "TON"
+  },
+  {
+    "English short name": "Tuvalu",
+    "French short name": "Tuvalu (les)",
+    "Alpha-2 code": "TV",
+    "Alpha-3 code": "TUV"
+  },
+  {
+    "English short name": "Uganda",
+    "French short name": "Ouganda (l')",
+    "Alpha-2 code": "UG",
+    "Alpha-3 code": "UGA"
+  },
+  {
+    "English short name": "Uzbekistan",
+    "French short name": "Ouzb\u00e9kistan (l')",
+    "Alpha-2 code": "UZ",
+    "Alpha-3 code": "UZB"
+  },
+  {
+    "English short name": "Vanuatu",
+    "French short name": "Vanuatu (le)",
+    "Alpha-2 code": "VU",
+    "Alpha-3 code": "VUT"
+  },
+  {
+    "English short name": "Yemen",
+    "French short name": "Y\u00e9men (le)",
+    "Alpha-2 code": "YE",
+    "Alpha-3 code": "YEM"
+  },
+  {
+    "English short name": "Zambia",
+    "French short name": "Zambie (la)",
+    "Alpha-2 code": "ZM",
+    "Alpha-3 code": "ZMB"
+  },
+  {
+    "English short name": "Zimbabwe",
+    "French short name": "Zimbabwe (le)",
+    "Alpha-2 code": "ZW",
+    "Alpha-3 code": "ZWE"
+  },
+  {
+    "English short name": "Kosovo",
+    "French short name": "Kosovo (le)",
+    "Alpha-2 code": "XK",
+    "Alpha-3 code": "XKX"
+  }
+]
